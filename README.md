@@ -22,7 +22,7 @@ $ ./hserv 9190
 
 **运行示例：**
 
-![示例图片1](示例图片1.png)
+![示例图片1](<https://github.com/ricklin97/tiny_http_server/blob/master/screenshot1.png>)
 
-![示例图片2](示例图片2.png)
+![示例图片2](<https://github.com/ricklin97/tiny_http_server/blob/master/screenshot2.png>)
 
